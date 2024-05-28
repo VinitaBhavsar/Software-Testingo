@@ -27,7 +27,7 @@ public class EverSty_Lish
 	    	//Launch Browser
             System.setProperty("webdriver.chrome.driver","C:\\Users\\Akshay Bhavsar\\Desktop\\jar\\chromedriver.exe");
             WebDriver w=new ChromeDriver();
-       	
+			print("Dfdfdf");
             //Open URL    
      	    w.get("https://everstylish.com/");
 	        w.manage().window().maximize();
