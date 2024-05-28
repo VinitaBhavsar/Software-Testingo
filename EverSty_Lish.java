@@ -29,6 +29,7 @@ public class EverSty_Lish
             WebDriver w=new ChromeDriver();
 			print("Dfdfdf");
             //Open URL    
+			print("vinit")
      	    w.get("https://everstylish.com/");
 	        w.manage().window().maximize();
 	        Thread.sleep(1000);
