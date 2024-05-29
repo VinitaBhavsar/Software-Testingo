@@ -24,7 +24,7 @@ public class EverSty_Lish
 	       
 	     {
 		
-	    	//Launch Browser
+	    	
             System.setProperty("webdriver.chrome.driver","C:\\Users\\Akshay Bhavsar\\Desktop\\jar\\chromedriver.exe");
             WebDriver w=new ChromeDriver();
             //Open URL    
